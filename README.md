@@ -3,4 +3,4 @@ cryptopals challenges
 
 My solutions from playing around with the challenges.
 
-compiling it with g++ -> g++ -o "whatever name you want here" "cryptopals challenge 1.cpp"
+compile it with build/build.bat(might have to edit it to use your generator)
